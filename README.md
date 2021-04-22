@@ -7,12 +7,12 @@ Number Guessing is one of the famous game played by many people. It is a game in
 ### Following are the rules of the game:
 
 1. First you have to think of a number.<br/>
-**Step 1:** 
+**Step 1:**
 > Let's Assume the main numberis 1234 
 2. Then Add the individuals digit and make a sum of it.<br/>
  **Step 2:**
 > 1+2+3+4 = 10
-3. Now do a subtraction between main number and the **Step 2:** result.<br/>
+3. Now do a subtraction between main number & the **Step 2's** result.<br/>
  **Step 3:**
 > 1234-10=1224
 4. In situations where both players choose the same object, the result will be a draw.<br/>
