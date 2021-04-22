@@ -7,16 +7,16 @@ Number Guessing is one of the famous game played by many people. It is a game in
 ### Following are the rules of the game:
 
 1. First you have to think of a number.
-**Step 1:** 
+ **Step 1:** 
 > Let's Assume the main numberis 1234 
 2. Then Add the individuals digit and make a sum of it.
-**Step 2:**
+ **Step 2:**
 > 1+2+3+4 = 10
 3. Now do a subtraction between main number and the **Step 2:** result.
-**Step 3:**
+ **Step 3:**
 > 1234-10=1224
 4. In situations where both players choose the same object, the result will be a draw.
-**Step 4:**
+ **Step 4:**
 > Now you will get a final result like **1224** & from it you can omit any digit from it & give the rest digit as a input to the computer & then the computer will tell you the **missing** digit.
 5. If you want to exit the game then press **E** or **e**.
 
