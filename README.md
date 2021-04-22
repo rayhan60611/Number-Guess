@@ -21,7 +21,7 @@ Number Guessing is one of the famous game played by many people. It is a game in
 5. If you want to exit the game then press **E** or **e**.
 
 
-**N.B:** You must think of a number which has more than 1 digit.
+**N.B:** You must think of a number which has more than **1** digit.
 
 
 
